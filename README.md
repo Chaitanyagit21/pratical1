@@ -1,2 +1,2 @@
-# pratical1
+# Pratical1
 This is my first Git Repository.
